@@ -2,6 +2,7 @@
 This Cypress automation project is designed to test the CURA Healthcare Service website. The primary goal is to automate repetitive testing tasks, ensuring the website's functionality, consistency, and user experience.
 
 **Key Features:**
+------------------
 
 **- Data-Driven Testing:** Inputs for test cases are extracted from an Excel file, providing flexibility and reducing manual data entry.
 
