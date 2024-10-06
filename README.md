@@ -14,20 +14,16 @@ This Cypress automation project is designed to test the CURA Healthcare Service 
 
 **After Downloading The Project**
 ------------------------------------
-1. Install cypress by running the following command: npm install cypress
-Or (preferred) npm install cypress --save-dev
-Or npx cypress install --force
+1. Install cypress by running the following command: **npm install cypress**
 
-2. Open Test Runner by running the following command: npx cypress open
-Or node_modules\.bin\cypress open
+   Or (preferred) **npm install cypress --save-dev**
+   
+   Or **npx cypress install --force**
 
-*Might prompt the following pop up (only first time) for the windows users, ignore/cancel/cross this prompt and you can proceed!
+2. Open Test Runner by running the following command: **npx cypress open**
 
-To install Mochawesome Report run the following command: npm install --save-dev mochawesome
-Or npm install --save-dev mocha
+3. *Might prompt the following pop up (only first time) for the windows users, ignore/cancel/cross this prompt and you can proceed!
 
-To Run headless: ./node_modules/.bin/cypress run
+4. To install Mochawesome Report run the following command: **npm install --save-dev mochawesome**
+   Or **npm install --save-dev mocha**
 
-Run headed: node_modules\.bin\cypress run --spec cypress/integration/examples/Testfile.js --headed
-
-Run with Mochawesome report: run mocha node_modules\.bin\cypress run --reporter mochawesome
