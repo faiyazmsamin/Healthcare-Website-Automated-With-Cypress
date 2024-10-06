@@ -8,3 +8,5 @@ This Cypress automation project is designed to test the CURA Healthcare Service 
 **- Excel to JSON Conversion:** Cypress converts the Excel data into a JSON format, making it suitable for consumption within the automation scripts.
 
 **- Custom 'multiIt' Method:** This custom method enhances test case execution by allowing multiple test cases to be run in a batch within a single it block. This improves efficiency and organization of the test suite.
+
+**-Page Object Model (POM):** The POM design pattern is implemented to separate the page elements and their interactions from the test logic, promoting code reusability and maintainability.
